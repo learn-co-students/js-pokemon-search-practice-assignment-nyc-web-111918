@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   
-  //RENDER POKEMON
-  //get all the pokemon on the page
+  //RENDER POKEMON - get all the pokemon on the page
   //query the container where we'll put the pokemon and assign it to a variable 
   //iterate through all pokemon and create an element for each one 
   //set the innerHTML of the container to equal the function that creates an element for each pokemon 

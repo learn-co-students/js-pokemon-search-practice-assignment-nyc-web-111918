@@ -15,8 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
   //query select search bar div and save it to a variable
   //add event listener to search input that captures the input value 
   //with that input value, we're going to filter the pokemon by names
-
-  POKEMON
+  
   const pokemonContainer = document.querySelector("#pokemon-container")
 
   function formatPokemon(pokemonArray){

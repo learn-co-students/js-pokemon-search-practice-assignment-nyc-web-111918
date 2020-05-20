@@ -1,4 +1,43 @@
 const POKEMON = [
+  // {
+  //   height: 10,
+  //   weight: 130,
+  //   id: 1,
+  //   name: "bulbasaur",
+  //   abilities: ["overgrow", "chlorophyll"],
+  //   moves: [],
+  //   stats: [
+  //     {
+  //       value: 80,
+  //       name: "special-defense"
+  //     },
+  //     {
+  //       value: 80,
+  //       name: "special-attack"
+  //     },
+  //     {
+  //       value: 63,
+  //       name: "defense"
+  //     },
+  //     {
+  //       value: 62,
+  //       name: "attack"
+  //     },
+  //     {
+  //       value: 60,
+  //       name: "speed"
+  //     },
+  //     {
+  //       value: 60,
+  //       name: "hp"
+  //     }
+  //   ],
+  //   types: ["grass", "poison"],
+  //   sprites: {
+  //     front: "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif",
+  //     back: "https://img.pokemondb.net/sprites/black-white/anim/back-normal/bulbasaur.gif"
+  //   }
+  // },
   {
     height: 10,
     weight: 130,
